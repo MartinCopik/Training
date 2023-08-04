@@ -1,4 +1,6 @@
-package training;
+package training.mainClass;
+
+import training.algorithms.MergeSort;
 
 import java.util.ArrayList;
 import java.util.Arrays;

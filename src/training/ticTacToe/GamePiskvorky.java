@@ -1,4 +1,4 @@
-package training;
+package training.ticTacToe;
 
 import java.util.Scanner;
 

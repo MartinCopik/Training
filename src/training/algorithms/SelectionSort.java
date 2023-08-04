@@ -1,4 +1,4 @@
-package training;
+package training.algorithms;
 
 import java.util.ArrayList;
 
