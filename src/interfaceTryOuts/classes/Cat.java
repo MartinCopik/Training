@@ -1,14 +1,19 @@
 package interfaceTryOuts.classes;
 
-public class Cat extends Animal{
+import interfaceTryOuts.interfaces.IRuns;
 
-    @Override
+public class Cat extends Animal implements IRuns {
+
+
     public void jumps() {
         System.out.println("cat jumps");
     }
 
-    @Override
     public void run() {
         System.out.println("cat runs");
+    }
+
+    public void eat() {
+        System.out.println("cat is eating");
     }
 }

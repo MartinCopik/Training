@@ -1,4 +1,4 @@
-package interfaceTryOuts.interfacesIvanSkuska;
+package interfaceTryOuts.interfaces;
 
 public interface ICrawls {
 

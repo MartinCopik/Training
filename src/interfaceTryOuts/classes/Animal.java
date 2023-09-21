@@ -1,22 +1,12 @@
 package interfaceTryOuts.classes;
 
-import interfaceTryOuts.interfacesIvanSkuska.ICrawls;
-import interfaceTryOuts.interfacesIvanSkuska.IJumps;
-import interfaceTryOuts.interfacesIvanSkuska.IRuns;
-
-public class Animal implements IJumps, ICrawls, IRuns {
-
-    @Override
-    public void crawls() {
+public  class Animal {
+    public Animal() {
     }
 
-    @Override
-    public void jumps() {
-
+    public void eat(){
+        System.out.println("println from Animal");
     }
 
-    @Override
-    public void run() {
 
-    }
 }

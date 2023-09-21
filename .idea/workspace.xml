@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7680394-fd90-4bb2-987a-23a1a7128b4f" name="Changes" comment="" />
+    <list default="true" id="f7680394-fd90-4bb2-987a-23a1a7128b4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/mainClass/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/IBasicNeeds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/interfacesIvanSkuska/ICrawls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/ICrawls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/interfacesIvanSkuska/IJumps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/IJumps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/interfacesIvanSkuska/IRuns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/IRuns.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,13 +34,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Martin010/IdeaProjects/Training/src/interfaceTryOuts"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin010\IdeaProjects\Training\src\interfaceTryOuts" />
+      <recent name="C:\Users\Martin010\IdeaProjects\Training\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="training" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceTryOuts.classes.mainClass.MainClass" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceTryOuts.classes.mainClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
