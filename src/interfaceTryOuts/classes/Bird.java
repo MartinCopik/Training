@@ -1,8 +1,10 @@
 package interfaceTryOuts.classes;
 
-public class Bird extends Animal {
+import interfaceTryOuts.classes.interfaces.IFly;
 
-    void fly(){
+public class Bird extends Animal implements IFly {
+
+    public void fly(){
         System.out.println("bird fly");
     }
 

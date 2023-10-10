@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f7680394-fd90-4bb2-987a-23a1a7128b4f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/classes/mainClass/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/mainClass/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/IBasicNeeds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/interfaces/IBasicNeeds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/ICrawls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/interfaces/IFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/IJumps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/interfaces/IJumps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceTryOuts/interfaces/IRuns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceTryOuts/classes/interfaces/IRuns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +53,7 @@
       <recent name="training" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.polymorphism.MainClass">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaceTryOuts.classes.mainClass.MainClass" />
       <module name="Training" />
@@ -74,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.polymorphism.MainClass" />
         <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.polymorphism.MainClass" />
       </list>
     </recent_temporary>
   </component>

@@ -1,8 +1,7 @@
-package interfaceTryOuts.interfaces;
+package interfaceTryOuts.classes.interfaces;
 
 public interface IRuns {
     void run();
     void jumps();
 
-//    void eat();
 }

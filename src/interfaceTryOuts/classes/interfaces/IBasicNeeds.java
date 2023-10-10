@@ -1,4 +1,4 @@
-package interfaceTryOuts.interfaces;
+package interfaceTryOuts.classes.interfaces;
 
 public interface IBasicNeeds {
     void eat();

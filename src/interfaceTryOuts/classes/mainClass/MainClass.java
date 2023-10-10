@@ -2,30 +2,35 @@ package interfaceTryOuts.classes.mainClass;
 
 
 import interfaceTryOuts.classes.Animal;
+import interfaceTryOuts.classes.Bird;
 import interfaceTryOuts.classes.Cat;
-import interfaceTryOuts.interfaces.IRuns;
+import interfaceTryOuts.classes.interfaces.IRuns;
 
 public class MainClass {
     public static void main(String[] args) {
 
-        /*IJumps kity = new Cat();
-        kity.jumps();
-        kity.run();
+        Cat cat = new Cat();
+        Bird bird = new Bird();
 
-        Cat kocur = new Cat();
-        kocur.run();
-        kocur.jumps();
-        kocur.crawls();*/
+        cat.eat();
+        cat.jumps();
+        cat.run();
 
-        Animal zviera = new Animal();
-        IRuns macka3 = (Cat)zviera;
+
+        bird.fly();
+        bird.eat();
+
+//        Animal zviera = new Animal();
+        Animal zviera = new Cat(); //takto by to slo
+        IRuns macka3 = (Cat) zviera;
         macka3.run();
         macka3.jumps();
 
-//        macka3.eat();
-//        nema pristup
+        feedAnimal(cat);
+        feedAnimal(bird);
 
-
-
+    }
+    public static void feedAnimal(Animal animal) {
+        animal.eat();
     }
 }
