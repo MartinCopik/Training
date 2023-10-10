@@ -1,8 +1,8 @@
 package interfaceTryOuts.classes.interfaces;
 
-public interface IJumps extends IRuns {
+public interface IJumps {
 
-    void jumps();
+
 
 
 }

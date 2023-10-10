@@ -1,0 +1,60 @@
+[33mcommit b95595ae292cdd0a69ff06fb4004b38894b67162[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 53a09ab cb20070
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Tue Oct 10 13:34:20 2023 +0200
+
+    Merge branch 'main' of https://github.com/MartinCopik/Training
+
+[33mcommit 53a09ab2c4d668132a5ed8dd0dc8a041de29dca0[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Tue Oct 10 13:25:25 2023 +0200
+
+    downcasting and upcasting
+
+[33mcommit f0c2bae5ea7febef8155ec9c8597a589acb28660[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Tue Oct 10 13:16:02 2023 +0200
+
+    upcasting and downcasting
+
+[33mcommit cb200705b5865d901173d28b00dcfe8b6dd5e57d[m
+Author: MartinCopik <140818655+MartinCopik@users.noreply.github.com>
+Date:   Thu Oct 5 17:14:00 2023 +0200
+
+    Added ClassDiagram InterfaceTryOuts
+
+[33mcommit e5a6cb6e530be5bfe28a125847253786c152c739[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Thu Oct 5 16:52:13 2023 +0200
+
+    push the diagram
+
+[33mcommit bf2446d19482a364d1effdbc7dac575ee523afae[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Thu Sep 21 10:00:52 2023 +0200
+
+    add a interfaceTryOuts
+
+[33mcommit f1645e4824761107f5abc17e5a569fb2a583a948[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Tue Sep 19 15:35:35 2023 +0200
+
+    add an interface package
+
+[33mcommit 323d4ddab61d714969c75d1fa9e183c50482fe92[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Tue Sep 19 15:27:14 2023 +0200
+
+    commit of old files
+
+[33mcommit 6b715a0c15d525334d526d312188f8f4773e44f9[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Fri Aug 4 19:18:23 2023 +0200
+
+    reorganizing the classes
+
+[33mcommit 53349feaf4ceb4a6e3ad10a21266ea746942f9fb[m
+Author: Martin Copik <martincopik97@gmail.com>
+Date:   Fri Aug 4 15:10:50 2023 +0200
+
+    add all Classes including MainClass
